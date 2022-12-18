@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671404762 source:c:\users\acer\documents\5∞ a—o\2∞ semestre\paralela\recuperativa paralela\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<vector>
+	<algorithm>
+
