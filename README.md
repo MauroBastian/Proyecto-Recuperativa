@@ -19,3 +19,5 @@ Union La Calera;La Calera;Municipal Nicolas Chahuan Nazar;-32.784167;-71.199444
 Universidad Catolica;Las Condes;San Carlos de Apoquindo;-33.395944;-70.500656
 Universidad de Chile;Nunoa;Estadio Nacional;-33.464522;-70.610586
 Universidad de Concepcion;Concepcion;Municipal Alcaldesa Ester Roa Rebolledo;-36.815278;-73.023333
+
+El trabajo consiste en desarrollar un programa en C/C++ que usando OpenMP y/o Open MPI, que leyendo un archivo de entrada (equipos.txt) por línea de comandos, entregue el fixture minimizando los desplazamientos promedios totales
